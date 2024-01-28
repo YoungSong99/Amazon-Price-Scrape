@@ -1,4 +1,4 @@
-# Amazon Scraping
+# Amazon Price Scraper
 
 ## Description
 This project aims to scrape the lowest price on Amazon using a UPC number received from a barcode scanner. The project has evolved through different versions, each addressing specific challenges encountered in the scraping process.
